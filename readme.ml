@@ -1,2 +1,2 @@
-## Universidad Nacional de San Agustin
-### Maestria en Ciencias de la Computación
+##Universidad Nacional de San Agustin
+###Maestria en Ciencias de la Computación
