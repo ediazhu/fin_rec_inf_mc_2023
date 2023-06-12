@@ -1,5 +1,5 @@
-## Universidad Nacional de San Agustín <br/> Facultad de Producción  y Servicios<br/>  Maestría en Ciencia de la Computación 
-<hr/>
+## Universidad Nacional de San Agustín  Facultad de Producción  y Servicios Maestría en Ciencia de la Computación 
+
 
 
 ## Proyecto final de Curso
