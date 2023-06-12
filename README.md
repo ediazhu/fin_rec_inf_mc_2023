@@ -1,4 +1,6 @@
-## Universidad Nacional de San Agustín  Facultad de Producción  y Servicios Maestría en Ciencia de la Computación 
+## Universidad Nacional de San Agustín  
+###Facultad de Producción  y Servicios 
+###Maestría en Ciencia de la Computación 
 
 
 
@@ -6,12 +8,12 @@
 
 | DOCENTE DEL CURSO | MAESTRIA | CURSO |
 | :-: | :-: | :-: |
-| MSc. Vicente Machaca Arceda | Maestría en Ciencia de la Computación | Algoritmos y Estructura de Datos |
+| MSc. Ana Maria Cuadros Valdivia | Maestría en Ciencia de la Computación | Recuperacion de Informaicon|
 <br/>
 
 ## Tema:
-
-Aplicacion del algoritmo KDTree en la lectura de imagenes DICOM para detección de patologias en pulmones.
+Modeling Wine Preferences By Data
+Mining From Physicochemical Properties
 
 ## Integrantes:
 
